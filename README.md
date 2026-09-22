@@ -4,7 +4,7 @@ Desarrollador Web Full Stack enfocado en construir aplicaciones eficientes, modu
 
 
 - 🛠️ Interesado en desarrollo web full-stack, arquitectura de software limpia y diseño de aplicaciones escalables.
-- 🌐 Portfolio: [Portfolio](https://portfolio-astro-vizkiis-projects.vercel.app/)-
+- 🌐 Portfolio: [Portfolio](https://portfolio-astro-vizkiis-projects.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rubenvizcaino/)
 
 ---
