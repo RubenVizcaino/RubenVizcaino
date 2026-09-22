@@ -2,7 +2,8 @@
 
 Desarrollador Web Full Stack enfocado en construir aplicaciones eficientes, modulares y escalables.
 
-- 🔭 Desarrollando soluciones con **PHP, Java, Spring Boot, Angular y Astro**.
+- 🔭 **Backend:** Desarrollo de APIs REST y arquitecturas robustas con **Java**, **Spring Boot**, **Spring Framework** (Security, Data JPA) y **PHP**.
+- 🎨 **Frontend:** Construcción de interfaces dinámicas y escalables con **Angular**, **TypeScript**, **Astro** y **Tailwind CSS**.
 - 🛠️ Interesado en arquitectura de software, bases de datos y entornos Linux.
 - 🌐 Portfolio: [rubenvizcainorodriguez.com](https://www.rubenvizcainorodriguez.com)
 - 💼 [LinkedIn](https://linkedin.com)
