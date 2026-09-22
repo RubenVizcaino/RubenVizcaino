@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy Rubén 👋
 
-<!--
-**RubenVizcaino/RubenVizcaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Full Stack enfocado en construir aplicaciones eficientes, modulares y escalables.
 
-Here are some ideas to get you started:
+- 🔭 Desarrollando soluciones con **PHP, Java, Spring Boot, Angular y Astro**.
+- 🛠️ Interesado en arquitectura de software, bases de datos y entornos Linux.
+- 🌐 Portfolio: [rubenvizcainorodriguez.com](https://www.rubenvizcainorodriguez.com)
+- 💼 [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🔐 [User Login & Registration](https://github.com/RubenVizcaino/user-login-registration-php)
+Sistema completo de autenticación y registro de usuarios con backend en PHP.
+
+- **Stack:** `PHP` `MySQL` `HTML5` `CSS3`
+- **Características:**
+  - Registro de usuarios con validación de datos en servidor y cliente.
+  - Inicio de sesión seguro con gestión de sesiones (`session_start()`).
+  - Hashing seguro de contraseñas (`password_hash` / `password_verify`).
+  - Control de accesos y protección de rutas privadas.
+- 🔗 [Explorar código](https://github.com/RubenVizcaino/user-login-registration-php)
+
+---
+
+#### 📦 [Curated Starter Templates](https://github.com/stars/RubenVizcaino/lists/template)
+Colección organizada de plantillas, boilerplates y estructuras base seleccionadas para agilizar el arranque de proyectos.
+
+- **Enfoque:** Productividad, configuración rápida de entornos y buenas prácticas de inicio.
+- 🔗 [Ver lista de templates](https://github.com/stars/RubenVizcaino/lists/template)
+
+---
+
+### 🛠️ Tecnologías
+
+| Área | Herramientas |
+| :--- | :--- |
+| **Backend** | PHP, Java, Spring Boot, MySQL |
+| **Frontend** | Angular, TypeScript, Astro, Svelte, Tailwind CSS |
+| **Entorno** | Git, Docker, Linux |
