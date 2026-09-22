@@ -9,6 +9,16 @@ Desarrollador Web Full Stack enfocado en construir aplicaciones eficientes, modu
 
 ---
 
+### 🛠️ Tecnologías
+
+| Área | Herramientas |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, PHP, MySQL |
+| **Frontend** | Angular, TypeScript, Astro, Tailwind CSS, HTML5/CSS3 |
+| **Arquitectura & DevOps** | Arquitectura Limpia, APIs REST, Git, Docker |
+
+---
+
 ### 🚀 Proyectos Destacados
 
 #### 🔐 [User Login & Registration](https://github.com/RubenVizcaino/user-login-registration-php)
@@ -36,12 +46,6 @@ Plantilla desacoplada para tiendas online, diseñada como base modular y escalab
   - **Carrito reactivo:** Gestión del estado del carrito de compras en el cliente para añadir, editar y eliminar pedidos en tiempo real.
   - **Persistencia y validación:** Modelado relacional optimizado con Hibernate/JPA y manejo centralizado de respuestas y excepciones.
 - **Repositorios:** [Backend](https://github.com/RubenVizcaino/template-backend) | [Frontend](https://github.com/RubenVizcaino/template-frontend)
----
 
-### 🛠️ Tecnologías
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, PHP, MySQL |
-| **Frontend** | Angular, TypeScript, Astro, Tailwind CSS, HTML5/CSS3 |
-| **Arquitectura & DevOps** | Arquitectura Limpia, APIs REST, Git, Docker |
+
