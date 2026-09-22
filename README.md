@@ -24,12 +24,18 @@ Sistema completo de autenticación y registro de usuarios con backend en PHP.
 
 ---
 
-#### 📦 [Curated Starter Templates](https://github.com/stars/RubenVizcaino/lists/template)
-Colección organizada de plantillas, boilerplates y estructuras base seleccionadas para agilizar el arranque de proyectos.
+#### 🛍️ E-Commerce Starter Template (Full Stack)
+Plantilla desacoplada para tiendas online, diseñada como base modular y escalable para agilizar el arranque de proyectos de comercio electrónico.
 
-- **Enfoque:** Productividad, configuración rápida de entornos y buenas prácticas de inicio.
-- 🔗 [Ver lista de templates](https://github.com/stars/RubenVizcaino/lists/template)
-
+- **Stack:**
+  - **Backend:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API`
+  - **Frontend:** `Angular` `TypeScript` `Tailwind CSS`
+- **Características clave:**
+  - **Arquitectura en capas:** Backend con separación limpia de controladores, servicios y repositorios consumido por servicios HTTP tipados en Angular.
+  - **Catálogo & Stock:** Endpoints RESTful y vistas interactivas para gestión y filtrado de productos y categorías.
+  - **Carrito reactivo:** Gestión del estado del carrito de compras en el cliente para añadir, editar y eliminar pedidos en tiempo real.
+  - **Persistencia y validación:** Modelado relacional optimizado con Hibernate/JPA y manejo centralizado de respuestas y excepciones.
+- **Repositorios:** [Backend](https://github.com/RubenVizcaino/template-backend) | [Frontend](https://github.com/RubenVizcaino/template-frontend)
 ---
 
 ### 🛠️ Tecnologías
