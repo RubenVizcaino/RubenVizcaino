@@ -2,11 +2,10 @@
 
 Desarrollador Web Full Stack enfocado en construir aplicaciones eficientes, modulares y escalables.
 
-- 🔭 **Backend:** Desarrollo de APIs REST y arquitecturas robustas con **Java**, **Spring Boot**, **Spring Framework** (Security, Data JPA) y **PHP**.
-- 🎨 **Frontend:** Construcción de interfaces dinámicas y escalables con **Angular**, **TypeScript**, **Astro** y **Tailwind CSS**.
-- 🛠️ Interesado en arquitectura de software, bases de datos y entornos Linux.
-- 🌐 Portfolio: [rubenvizcainorodriguez.com](https://www.rubenvizcainorodriguez.com)
-- 💼 [LinkedIn](https://linkedin.com)
+
+- 🛠️ Interesado en desarrollo web full-stack, arquitectura de software limpia y diseño de aplicaciones escalables.
+- 🌐 Portfolio: [Portfolio](https://portfolio-astro-vizkiis-projects.vercel.app/)-
+- 💼 [LinkedIn](https://www.linkedin.com/in/rubenvizcaino/)
 
 ---
 
@@ -37,6 +36,6 @@ Colección organizada de plantillas, boilerplates y estructuras base seleccionad
 
 | Área | Herramientas |
 | :--- | :--- |
-| **Backend** | PHP, Java, Spring Boot, MySQL |
-| **Frontend** | Angular, TypeScript, Astro, Svelte, Tailwind CSS |
-| **Entorno** | Git, Docker, Linux |
+| **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, PHP, MySQL |
+| **Frontend** | Angular, TypeScript, Astro, Tailwind CSS, HTML5/CSS3 |
+| **Arquitectura & DevOps** | Arquitectura Limpia, APIs REST, Git, Docker |
